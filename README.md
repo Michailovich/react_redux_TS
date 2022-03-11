@@ -1,0 +1,1 @@
+Training project where I use React,Redux,TS
